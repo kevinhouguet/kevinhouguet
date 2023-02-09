@@ -1,18 +1,3 @@
-<!--
-**kevinhouguet/kevinhouguet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # :wave: Hi There !
 
 I'm Kevin, a passionate and voracious back-end developer of new technology.
@@ -41,6 +26,12 @@ I'm also an autodidacte in development. I have learned and practice since 10 yea
 
 I'm actually looking for a job, so if my profile and my work enjoy to you do not hesitate to contact me.
 
-# You can catch me here !
+## You can catch me here !
 
 <a href="https://www.linkedin.com/in/kevinhouguet/" target="blank"><img align="center" src="./assets/img/ico-linkedin.png" height="50" /></a>
+<a href="https://twitter.com/k_houguet" target="blank"><img align="center" src="./assets/img/ico-twitter.png" height="50" /></a>
+<a href="https://houguet-kevin.netlify.app/" target="blank"><img align="center" src="./assets/img/ico-mywebsite.png" height="50" /></a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=kevinhouguet&show_icons=true&theme=default" width="400">
+
+
