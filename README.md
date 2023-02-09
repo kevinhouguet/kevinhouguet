@@ -43,4 +43,4 @@ I'm actually looking for a job, so if my profile and my work enjoy to you do not
 
 # You can catch me here !
 
-<a href="https://www.linkedin.com/in/kevinhouguet/" target="blank"><img align="center" src="./img/ico-linkedin" height="50" /></a>
+<a href="https://www.linkedin.com/in/kevinhouguet/" target="blank"><img align="center" src="./assets/img/ico-linkedin.png" height="50" /></a>
