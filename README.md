@@ -30,7 +30,7 @@ I'm actually looking for a job, so if my profile and my work enjoy to you do not
 
 <a href="https://www.linkedin.com/in/kevinhouguet/" target="blank"><img align="center" src="./assets/img/ico-linkedin.png" height="50" /></a>
 <a href="https://twitter.com/k_houguet" target="blank"><img align="center" src="./assets/img/ico-twitter.png" height="50" /></a>
-<a href="https://houguet-kevin.netlify.app/" target="blank"><img align="center" src="./assets/img/ico-mywebsite.png" height="50" /></a>
+<!-- <a href="https://houguet-kevin.netlify.app/" target="blank"><img align="center" src="./assets/img/ico-mywebsite.png" height="50" /></a> -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=kevinhouguet&show_icons=true&theme=default" width="400">
 
