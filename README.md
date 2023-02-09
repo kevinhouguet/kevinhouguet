@@ -1,5 +1,3 @@
-<img align="center" src="./assets/img/brand-baniere.png" height="200" />
-
 # :wave: Hi There !
 
 I'm Kevin, a passionate and voracious back-end developer of new technology.
