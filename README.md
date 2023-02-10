@@ -35,4 +35,6 @@ I'm actually looking for a job, so if my profile and my work enjoy to you do not
 
 <img src="https://github-readme-stats.vercel.app/api?username=kevinhouguet&show_icons=true&theme=monokai" width="400">
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
