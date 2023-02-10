@@ -15,6 +15,7 @@ So, i have been learning the web development in this school with technology and 
 - Consume API with AJAX method.
 - Deploy the project on VM and on a PaaS.
 - Back app architecture : MVC
+- POO, Factory function, IIFE
 - Advanced SQL : index, function, loop
 - GraphQL
 - Discover of IA, Learning machine
