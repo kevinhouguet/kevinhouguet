@@ -40,15 +40,15 @@ I'm actually looking for a job, so if my profile and my work enjoy to you do not
 ```text
 From: 08 February 2023 - To: 21 February 2023
 
-Total Time: 8 hrs 28 mins
+Total Time: 8 hrs 24 mins
 
-JavaScript   3 hrs 39 mins   >>>>>>>>>>>--------------   43.05 %
-SQL          2 hrs 11 mins   >>>>>>-------------------   25.83 %
-JSON         1 hr 13 mins    >>>>---------------------   14.49 %
-Markdown     47 mins         >>-----------------------   09.36 %
-HTML         18 mins         >------------------------   03.55 %
-Bash         13 mins         >------------------------   02.75 %
-Other        4 mins          -------------------------   00.84 %
+JavaScript   3 hrs 39 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.05 %
+SQL          2 hrs 11 mins   ⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.83 %
+JSON         1 hr 13 mins    ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.49 %
+Markdown     47 mins         ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.36 %
+HTML         18 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.55 %
+Bash         13 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.75 %
+Other        4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.84 %
 ```
 
 <!--END_SECTION:waka-->
