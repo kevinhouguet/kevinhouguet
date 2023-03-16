@@ -27,6 +27,12 @@ I'm also an autodidacte in development. I have learned and practice since 10 yea
 
 I'm actually looking for a job, so if my profile and my work enjoy to you do not hesitate to contact me.
 
+## I'm actually working on
+- :rocket: <a href="https://houguet-kevin.netlify.app/">my portfolio</a>
+- :umbrella: <a href="https://service-meteo.netlify.app/">weather service</a>
+- :basketball: <a href="https://oplayground.netlify.app/aze/">oplayground</a> : a sportive application
+- :basketball: <a href="https://oplaygroundapi.herokuapp.com/">oplaygroundAPI</a> : a sportive API to serve oplayground Front app
+
 ## You can catch me here !
 
 <a href="https://www.linkedin.com/in/kevinhouguet/" target="blank"><img align="center" src="./assets/img/ico-linkedin.png" height="50" /></a>
