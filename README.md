@@ -32,6 +32,7 @@ I'm actually looking for a job, so if my profile and my work enjoy to you do not
 - :umbrella: <a href="https://service-meteo.netlify.app/">weather service</a>
 - :basketball: <a href="https://oplayground.netlify.app/">oplayground</a> : a sportive application
 - :basketball: <a href="https://oplaygroundapi.herokuapp.com/">oplaygroundAPI</a> : a sportive API to serve oplayground Front app
+- :egg: <a href="https://egg-master.netlify.app/">egg-master</a> : Try it !
 
 ## You can catch me here !
 
