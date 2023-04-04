@@ -30,7 +30,7 @@ I'm actually looking for a job, so if my profile and my work enjoy to you do not
 ## I'm actually working on
 - :rocket: <a href="https://kevin-houguet.up.railway.app/" target="blank">my portfolio</a>
 - :umbrella: <a href="https://service-meteo.netlify.app/">weather service</a>
-- :basketball: <a href="https://oplayground.netlify.app/aze/">oplayground</a> : a sportive application
+- :basketball: <a href="https://oplayground.netlify.app/">oplayground</a> : a sportive application
 - :basketball: <a href="https://oplaygroundapi.herokuapp.com/">oplaygroundAPI</a> : a sportive API to serve oplayground Front app
 
 ## You can catch me here !
