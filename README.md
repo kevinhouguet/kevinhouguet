@@ -45,12 +45,12 @@ I'm actually looking for a job, so if my profile and my work enjoy to you do not
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 February 2023 - To: 23 April 2023
+From: 08 February 2023 - To: 24 April 2023
 
-Total Time: 142 hrs 13 mins
+Total Time: 144 hrs 25 mins
 
-JavaScript      97 hrs 19 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.58 %
-Other           13 hrs 18 mins  ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.56 %
+JavaScript      99 hrs 23 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.93 %
+Other           13 hrs 31 mins  ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.56 %
 ```
 
 <!--END_SECTION:waka-->
