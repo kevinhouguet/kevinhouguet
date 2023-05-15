@@ -30,13 +30,14 @@ I'm actually looking for a job, so if my profile and my work enjoy to you do not
 ## I'm actually working on
 - :rocket: <a href="https://kevin-houguet.up.railway.app/" target="blank">my portfolio</a>
 - :egg: <a href="https://egg-master.netlify.app/">egg-master</a> : Try it !
-- 💳 <a href="https://github.com/kevinhouguet/interactive-card-details-form-main" target="_blank">Interactive card</a>
+- 👶 <a href="https://github.com/kevinhouguet/age-calculator/">age-calculator</a> 
 - 🛒 Rebuilding my old "La Féepicerie" PHP app in Symfony. (the name means "the fairy grocery store")
 
 ## Project done
 - :umbrella: <a href="https://service-meteo.netlify.app/">weather service</a>
 - :basketball: <a href="https://oplayground.netlify.app/">oplayground</a> : a sportive application
 - :basketball: <a href="https://oplaygroundapi.herokuapp.com/">oplaygroundAPI</a> : a sportive API to serve oplayground Front app
+- 💳 <a href="https://github.com/kevinhouguet/interactive-card-details-form-main" target="_blank">Interactive card</a>
 
 ## You can catch me here !
 
