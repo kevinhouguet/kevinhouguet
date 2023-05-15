@@ -31,6 +31,7 @@ I'm actually looking for a job, so if my profile and my work enjoy to you do not
 - :rocket: <a href="https://kevin-houguet.up.railway.app/" target="blank">my portfolio</a>
 - :egg: <a href="https://egg-master.netlify.app/">egg-master</a> : Try it !
 - 💳 <a href="https://github.com/kevinhouguet/interactive-card-details-form-main" target="_blank">Interactive card</a>
+- 🛒 Rebuilding my old "La Féepicerie" PHP app in Symfony. (the name means "the fairy grocery store")
 
 ## Project done
 - :umbrella: <a href="https://service-meteo.netlify.app/">weather service</a>
