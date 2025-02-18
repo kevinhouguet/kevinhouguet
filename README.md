@@ -50,7 +50,7 @@ I'm actually looking for a job, so if my profile and my work enjoy to you do not
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 February 2023 - To: 15 February 2025
+From: 08 February 2023 - To: 16 February 2025
 
 Total Time: 526 hrs 20 mins
 
